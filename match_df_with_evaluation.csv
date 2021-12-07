@@ -1,0 +1,32 @@
+,uri,potential_entities,potenitial_asx_company_name,cosine_distance,
+0,/news/2021-11-26/uranium-miner-vimy-mulga-rock-project/100653578,vimy resources,VIMY RESOURCES LIMITED,0,yes
+1,/news/2021-11-27/queensland-mining-towns-face-enormous-covid-risk/100635396,bhp,BHP GROUP LIMITED,0,yes
+2,/news/2021-11-28/bobby-pate-kombi-coffee-van-business-with-a-smile/100604100,fleetwood mac,FLEETWOOD LIMITED,0,
+3,/news/2021-11-28/community-rallies-against-woodside-scarborough-project/100656126,bhp,BHP GROUP LIMITED,0,yes
+4,/news/2021-11-29/markets-wall-street-dow-jones-asx/100657818,st george economists,ST GEORGE MINING LIMITED,0.183503419,
+5,/news/2021-11-29/markets-wall-street-dow-jones-asx/100657818,asx falls,ASX LIMITED,0,
+6,/news/2021-11-29/markets-wall-street-dow-jones-asx/100657818,asx,ASX LIMITED,0,yes
+7,/news/2021-11-29/new-zealand-politician-cycles-to-hospital-to-give-birth/100657688,new zealand,AIR NEW ZEALAND LIMITED,0.183503419,
+8,/news/2021-11-30/asx-global-markets-rebound-investors-assess-omicron/100660394,asx,ASX LIMITED,0,yes
+9,/news/2021-11-30/wa-mining-industry-does-not-expect-mass-job-losses/100662240,mineral resources,MINERAL RESOURCES LIMITED,0,yes
+10,/news/2021-11-30/wa-mining-industry-does-not-expect-mass-job-losses/100662240,mines minister,AUSTRALIAN MINES LIMITED,0,
+11,/news/2021-11-30/westpac-asic-charging-dead-customers/100660524,financial advice,E&P FINANCIAL GROUP LIMITED,0,
+12,/news/2021-12-01/asx-wallstreet-markets-currencies-commodities/100663734,asx,ASX LIMITED,0,yes
+13,/news/2021-12-01/insurance-companies-to-stop-billing-tenants-for-property-damage/100661188,suncorp,SUNCORP GROUP LIMITED,0,yes
+14,/news/2021-12-01/tas-salmon-industry-fights-back-against-negative-press/100661988,tassal,TASSAL GROUP LIMITED,0,yes
+15,/news/2021-12-02/asx-wallstreet-markets-stocks-currencies-commodities/100668070,national australia bank,NATIONAL AUSTRALIA BANK LIMITED,0.183503419,yes
+16,/news/2021-12-02/asx-wallstreet-markets-stocks-currencies-commodities/100668070,pharmaceutical industries,AUSTRALIAN PHARMACEUTICAL INDUSTRIES LIMITED,0,yes
+17,/news/2021-12-02/asx-wallstreet-markets-stocks-currencies-commodities/100668070,asx,ASX LIMITED,0,yes
+18,/news/2021-12-02/asx-wallstreet-markets-stocks-currencies-commodities/100668070,new zealand,AIR NEW ZEALAND LIMITED,0.183503419,
+19,/news/2021-12-02/asx-wallstreet-markets-stocks-currencies-commodities/100668070,woolworths,WOOLWORTHS GROUP LIMITED,0,yes
+20,/news/2021-12-02/asx-wallstreet-markets-stocks-currencies-commodities/100668070,wesfarmers,WESFARMERS LIMITED,0,yes
+21,/news/2021-12-02/fixed-rate-mortgages-below-2-per-cent-disappear-from-big-banks/100669286,rba data,DATA#3 LIMITED,0,
+22,/news/2021-12-02/obeid-backed-development-at-hawks-nest-to-face-legal-challenge/100623232,port macquarie,MACQUARIE GROUP LIMITED,0,
+23,/news/2021-12-03/asx-wallstreet-markets-currencies-commodities/100670494,woodside petroleum,WOODSIDE PETROLEUM LTD,0,yes
+24,/news/2021-12-03/asx-wallstreet-markets-currencies-commodities/100670494,csl,CSL LIMITED,0,yes
+25,/news/2021-12-03/asx-wallstreet-markets-currencies-commodities/100670494,asx,ASX LIMITED,0,yes
+26,/news/2021-12-03/asx-wallstreet-markets-currencies-commodities/100670494,bhp,BHP GROUP LIMITED,0,yes
+27,/news/2021-12-03/bhps-vaccine-mandate-unlawful-fair-work-commission-finds/100673390,bhp,BHP GROUP LIMITED,0,yes
+28,/news/2021-12-05/qld-covid-2022-border-open-vaccination-rate-international-travel/100603746,port macquarie,MACQUARIE GROUP LIMITED,0,
+29,/news/rural/2021-12-02/champagne-shortage-has-sparkling-wine-makers-ready/100629934,endeavour group,ENDEAVOUR GROUP LIMITED,0,yes
+30,/news/rural/2021-12-02/champagne-shortage-has-sparkling-wine-makers-ready/100629934,new zealand,AIR NEW ZEALAND LIMITED,0.183503419,
